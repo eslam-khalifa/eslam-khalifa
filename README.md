@@ -50,4 +50,3 @@ I am an undergraduate software engineer specialized in backend .NET development.
     <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" />
   </a>
 </p>
----
