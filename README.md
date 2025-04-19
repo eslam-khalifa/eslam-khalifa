@@ -3,23 +3,7 @@
 ## 💫 About Me:
 I am an undergraduate software engineer specialized in backend .NET development.
 
-## 🌐 Socials:
-<p align="center">
-  <a href="https://www.linkedin.com/in/eslam-khalifa-40a421237/">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:eslam.w.khalifa@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://leetcode.com/u/eslam_khalifa/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
-  </a>
-  <a href="https://codeforces.com/profile/eslam_khalifa">
-    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" />
-  </a>
-</p>
-
-# 💻 Tech Stack:
+## 💻 Tech Stack:
 <p align="center">
   <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" />
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
@@ -37,7 +21,7 @@ I am an undergraduate software engineer specialized in backend .NET development.
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=eslam-khalifa&theme=dark&hide_border=false&include_all_commits=true&count_private=false" />
   <br/>
@@ -46,9 +30,24 @@ I am an undergraduate software engineer specialized in backend .NET development.
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eslam-khalifa&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
 </p>
 
-### ✍️ Dev Quote
+## ✍️ Dev Quote
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </p>
 
+## 🌐 Socials:
+<p align="center">
+  <a href="https://www.linkedin.com/in/eslam-khalifa-40a421237/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:eslam.w.khalifa@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://leetcode.com/u/eslam_khalifa/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
+  </a>
+  <a href="https://codeforces.com/profile/eslam_khalifa">
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" />
+  </a>
+</p>
 ---
