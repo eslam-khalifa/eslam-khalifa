@@ -11,8 +11,12 @@ I am an undergraduate software engineer specialized in backend .NET development.
   <a href="mailto:eslam.w.khalifa@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" />
   </a>
-  <a href="https://leetcode.com/u/eslam_khalifa/">LeetCode Profile</a>
-  <a href="https://codeforces.com/profile/eslam_khalifa">Codeforces Profile</a>
+  <a href="https://leetcode.com/u/eslam_khalifa/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
+  </a>
+  <a href="https://codeforces.com/profile/eslam_khalifa">
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" />
+  </a>
 </p>
 
 # 💻 Tech Stack:
