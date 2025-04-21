@@ -50,6 +50,3 @@ I am an undergraduate software engineer specialized in backend .NET development.
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </p>
-
-## 🔥 Watch a snake eating my github contribution
-![snake gif](https://github.com/eslam-khalifa/eslam-khalifa/blob/output/github-contribution-grid-snake.svg)
