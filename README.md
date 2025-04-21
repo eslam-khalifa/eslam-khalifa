@@ -3,6 +3,22 @@
 ## 💫 About Me:
 I am an undergraduate software engineer specialized in backend .NET development.
 
+## 🌐 Socials:
+<p align="center">
+  <a href="https://www.linkedin.com/in/eslam-khalifa-40a421237/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:eslam.w.khalifa@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://leetcode.com/u/eslam_khalifa/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
+  </a>
+  <a href="https://codeforces.com/profile/eslam_khalifa">
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" />
+  </a>
+</p>
+
 ## 💻 Tech Stack:
 <p align="center">
   <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" />
@@ -35,18 +51,5 @@ I am an undergraduate software engineer specialized in backend .NET development.
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </p>
 
-## 🌐 Socials:
-<p align="center">
-  <a href="https://www.linkedin.com/in/eslam-khalifa-40a421237/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:eslam.w.khalifa@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://leetcode.com/u/eslam_khalifa/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
-  </a>
-  <a href="https://codeforces.com/profile/eslam_khalifa">
-    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" />
-  </a>
-</p>
+## 🔥 Watch a snake eating my github contribution
+![snake gif](https://github.com/eslam-khalifa/eslam-khalifa/blob/output/github-contribution-grid-snake.svg)
